@@ -100,7 +100,7 @@ Generative Adversial Networks are Neural Nets that can generate data from scratc
 Deep Convolutional Generative Adversial Network (DCGAN) is a type of Generative Adversial Network (GAN) that explicitly uses Convolutional and Convolution Transpose layers in discriminator and generator networks respectively. Above is the architecture of the default DGCAN model implemented in this project. 
 
 # Demo
-#### Demo: [Celeba Dataset]()
+#### Demo: [Celeba Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 Training Images
 
 ![Original ](demo_imgs/celeba/celeb0.png)
@@ -109,7 +109,7 @@ Fake Images (After 70 Epochs)
 
 ![Demo for one of the trained GAN Model](demo_imgs/celeba/celeb1.png)
 
-#### Demo: [Flower Dataset]()
+#### Demo: [Flower Dataset](https://www.kaggle.com/alxmamaev/flowers-recognition)
 Training Images
 
 ![Original ](demo_imgs/flowers/flower0.png)
