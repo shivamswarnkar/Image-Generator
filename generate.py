@@ -1,5 +1,5 @@
 from utils.args import get_generate_args
-from DCGAN import generate_images
+from DCGAN.generate import generate_images
 
 if __name__ == '__main__':
 	# read arguments from terminal
