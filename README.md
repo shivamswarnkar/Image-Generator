@@ -1,7 +1,7 @@
 # Image-Generator
 Pytorch implementation of DCGAN described in the ["Unsupervised Rrepesentation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/pdf/1511.06434.pdf)  paper by Radford et. al. to generate fake images of any given image dataset.
 
-- Train on your custom dataset in Google Colab, checkout this [notebook](colab_demo.ipynb)
+- Train on your custom dataset in Google Colab, checkout this [notebook](dcgan_colab_demo.ipynb)
 
 - Easily train on any image datasets and generate new images, checkout [Getting Started](#how-to-use).
 
