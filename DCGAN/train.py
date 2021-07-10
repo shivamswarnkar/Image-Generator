@@ -59,8 +59,8 @@ def train_gan(args):
 	fixed_noise = torch.randn(64, args.nz, 1, 1, device=device)
 
 	# convention for training
-	real_label = 1
-	fake_label = 0
+	real_label = 1.0
+	fake_label = 0.0
 
 	# training data for later analysis
 	img_list= []
